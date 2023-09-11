@@ -83,7 +83,7 @@
   background-size: cover;
   border-radius: 1.2rem;
 }
-.banner .d-grid .item:hover img {
+.r .d-grid .item:hover img {
   background-size: contain;
 }
 .banner .d-grid .item:first-of-type {
