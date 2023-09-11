@@ -89,17 +89,17 @@
 .banner .d-grid .item:first-of-type {
   height: 50rem;
   grid-area: 1/1/span 2/span 2;
-  background-image: url("//images/banner-1.jpg");
+  background-image: url("../images/banner-1.jpg");
 }
 .banner .d-grid .item:nth-of-type(2) {
   grid-area: 1/3/span 1/span 2;
-  background-image: url("//images/banner-2.jpg");
+  background-image: url("../images/banner-2.jpg");
 }
 .banner .d-grid .item:nth-of-type(3) {
-  background-image: url("//images/banner-3.jpg");
+  background-image: url("../images/banner-3.jpg");
 }
 .banner .d-grid .item:nth-of-type(4) {
-  background-image: url("//images/banner-4.jpg");
+  background-image: url("../images/banner-4.jpg");
 }
 @media only screen and (max-width: 1200px) {
   .banner .d-grid {
